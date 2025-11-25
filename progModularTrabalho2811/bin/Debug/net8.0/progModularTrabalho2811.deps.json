@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "progModularTrabalho2811/1.0.0": {
+        "runtime": {
+          "progModularTrabalho2811.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "progModularTrabalho2811/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
