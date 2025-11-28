@@ -1,0 +1,14 @@
+/home/aluno/Documentos/progModularTrabalhoGeo2811/obj/Debug/net8.0/progModularTrabalhoGeo2811.GeneratedMSBuildEditorConfig.editorconfig
+/home/aluno/Documentos/progModularTrabalhoGeo2811/obj/Debug/net8.0/progModularTrabalhoGeo2811.AssemblyInfoInputs.cache
+/home/aluno/Documentos/progModularTrabalhoGeo2811/obj/Debug/net8.0/progModularTrabalhoGeo2811.AssemblyInfo.cs
+/home/aluno/Documentos/progModularTrabalhoGeo2811/obj/Debug/net8.0/progModularTrabalhoGeo2811.csproj.CoreCompileInputs.cache
+/home/aluno/Documentos/progModularTrabalhoGeo2811/bin/Debug/net8.0/progModularTrabalhoGeo2811
+/home/aluno/Documentos/progModularTrabalhoGeo2811/bin/Debug/net8.0/progModularTrabalhoGeo2811.deps.json
+/home/aluno/Documentos/progModularTrabalhoGeo2811/bin/Debug/net8.0/progModularTrabalhoGeo2811.runtimeconfig.json
+/home/aluno/Documentos/progModularTrabalhoGeo2811/bin/Debug/net8.0/progModularTrabalhoGeo2811.dll
+/home/aluno/Documentos/progModularTrabalhoGeo2811/bin/Debug/net8.0/progModularTrabalhoGeo2811.pdb
+/home/aluno/Documentos/progModularTrabalhoGeo2811/obj/Debug/net8.0/progModularTrabalhoGeo2811.dll
+/home/aluno/Documentos/progModularTrabalhoGeo2811/obj/Debug/net8.0/refint/progModularTrabalhoGeo2811.dll
+/home/aluno/Documentos/progModularTrabalhoGeo2811/obj/Debug/net8.0/progModularTrabalhoGeo2811.pdb
+/home/aluno/Documentos/progModularTrabalhoGeo2811/obj/Debug/net8.0/progModularTrabalhoGeo2811.genruntimeconfig.cache
+/home/aluno/Documentos/progModularTrabalhoGeo2811/obj/Debug/net8.0/ref/progModularTrabalhoGeo2811.dll
