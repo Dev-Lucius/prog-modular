@@ -47,16 +47,6 @@ Existem métodos para mover: - Norte → aumenta a latitude\
 
 ------------------------------------------------------------------------
 
-## 📂 Estrutura do Projeto
-
-    /ProjetoLocalizacao
-    │
-    ├── Program.cs
-    ├── Localizacoes.cs
-    └── README.md
-
-------------------------------------------------------------------------
-
 ## 🧱 Tipos Implementados
 
 ### 1️⃣ **LocalizacaoClass**
