@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+  <link rel="stylesheet" href="styles.css">
+  <title>Programação Modular - Aula 05 de Dezembro</title>
+</head>
+
+<body>
+<div class="front-end">
+  
+  <!-- Projeto TadsFlix -->
+  <h1 class="title">TadsFlix</h1>
+
+  <!-- Criando um Formulario -->
+   <div class="form-div">
+    <form method="post">
+
+        <div class="input-titulo">
+            <label for="titulo">Titulo</label>
+            <input type="text" name="titulo" id="titulo" placeholder="Insira um Título"required>
+            <i class="fa fa-user" aria-hidden="true" id="icon"></i>
+        </div>
+
+        <div class="status">
+            <label for="genero">Gênero</label>
+            <select name="genero" id="genero">
+                <i class="fa fa-chevron-circle-down" aria-hidden="true"></i>
+                <!-- Select Options -->
+                <option value="DRAMA">Drama</option>
+                <option value="COMEDIA">Comédia</option>
+                <option value="ACAO">Ação</option>
+            </select>
+
+            <label for="hype">Hype:</label>
+            <input type="range" name="hype" id="hype" min="1" max="5" value="2.5" step="1.0">
+            
+        </div>
+
+        <div class="submit-div">
+            <input type="submit" value="Adicionar" class="button">
+            <input type="reset" value="Limpar" class="button">
+        </div> 
+    </form>
+    </div>
+
+    <div class="table-wrapper">
+  <table class="styled-table">
+    <thead>
+      <tr>
+        <th>Título</th>
+        <th>Gênero</th>
+        <th>Hype</th>
+        <th>Assistido?</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Trom Ares</td>
+        <td>Ação</td>
+        <td class="hype">🔥🕳️🕳️🕳️🕳️</td>
+        <td>Em: 04/12/2025</td>
+      </tr>
+      <tr>
+        <td>As Branquelas</td>
+        <td>Comédia</td>
+        <td class="hype">🔥🔥🔥🔥🔥</td>
+        <td><button class="btn-assistido" aria-pressed="true">📺 Assistido</button></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
